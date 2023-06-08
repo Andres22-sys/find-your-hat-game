@@ -11,12 +11,12 @@ To run this game, you need to have Node.js installed on your machine. You can do
 1. Open your terminal or command prompt.
 2. Navigate to the directory where you want to clone the project.
 3. Run the following command to clone the repository:
-
+git clone https://github.com/your-username/find-your-hat.git
 
 Replace `your-username` with your GitHub username.
 
 4. Once the cloning process is complete, navigate into the project directory:
-
+cd find-your-hat
 
 ## Install Dependencies
 
